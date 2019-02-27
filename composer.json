@@ -21,7 +21,7 @@
         "royalcms/http": "5.0.*",
         "royalcms/support": "5.0.*",
         "symfony/process": "2.7.*",
-        "symfony/debug": "2.7.*",
+        "symfony/debug": "2.7.*"
     },
     "autoload": {
         "psr-4": {
