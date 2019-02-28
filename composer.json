@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Royalcms\\Component\\Queue\\": ""
+            "Royalcms\\Component\\Queue\\": "Royalcms/Component/Queue"
         },
         "classmap": [
             "RoyalcmsQueueClosure.php"
